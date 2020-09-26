@@ -1,5 +1,3 @@
-Original: asadbek064/Simple-StartupPage
-
 # Simple-Tab
 Custom New Tab with custom
 * SearchBar (Start typing it will pop down & choose your own search engine !g google !d duckduckgo !y youtube)
